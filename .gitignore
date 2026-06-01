@@ -1,0 +1,15 @@
+# Archivos de Unreal Engine (NO SUBIR)
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.suo
+*.sdf
+*.opensdf
+*.exe
+*.pdb
+*.dll
+
+# Archivos de Windows
+Thumbs.db
